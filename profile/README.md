@@ -1,4 +1,4 @@
-![Project Matrixx](https://i.postimg.cc/SRY549YZ/matrixx.png)
+![Project Matrixx](https://i.postimg.cc/LhFYdz13/Banner-Logo-Header.png)
 
 **Welcome to Project Matrixx!**
 
