@@ -10,5 +10,5 @@
 
 - [Manifest](https://github.com/ProjectMatrixx/android)
 - [Device sources](https://github.com/Matrixx-Devices)
-- [Official Devices](https://matrixx-devices.github.io/devices.html)
+- [Official Devices](https://www.projectmatrixx.org/downloads)
 - [Telegram](https://t.me/matrixx_community)
