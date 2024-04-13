@@ -6,6 +6,8 @@
 - Added few extra features and borrowed UI from [RisingOS](https://github.com/RisingTechOSS)
 - Currently our source is ready for Android 14
 
+[![Download ProjectMatrixx](https://img.shields.io/sourceforge/dm/projectmatrixx.svg)](https://sourceforge.net/projects/projectmatrixx/files)[![Download ProjectMatrixx](https://img.shields.io/sourceforge/dt/projectmatrixx.svg)](https://www.projectmatrixx.org/downloads)
+
 ### Important info & Links
 
 - [Manifest](https://github.com/ProjectMatrixx/android)
