@@ -1,4 +1,4 @@
-![Project Matrixx](https://i.postimg.cc/LhFYdz13/Banner-Logo-Header.png)
+![Project Matrixx](https://raw.githubusercontent.com/ProjectMatrixx/Assets/refs/heads/15.0/banner.png)
 
 ### Welcome!
 Project Matrixx is a custom Android ROM based on crDroid Android, offering a unique blend of features, improvements, and a refined user interface.
