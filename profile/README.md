@@ -1,4 +1,4 @@
-![Project Matrixx](https://raw.githubusercontent.com/ProjectMatrixx/Assets/refs/heads/15.0/banner.png)
+![Project Matrixx](https://raw.githubusercontent.com/ProjectMatrixx/Assets/refs/heads/16.0/banner.png)
 
 ### Welcome!
 Project Matrixx is a custom Android ROM based on crDroid Android, offering a unique blend of features, improvements, and a refined user interface.
@@ -6,7 +6,7 @@ Project Matrixx is a custom Android ROM based on crDroid Android, offering a uni
 ### Key Features
 - Built on top of [crDroid Android](https://github.com/crdroidandroid) for a stable and secure base
 - Additional features and UI enhancements for a personalized experience
-- Currently supporting Android 15
+- Currently supporting Android 16
 
 ### Important Links
 - Want to build check out our [Manifest](https://github.com/ProjectMatrixx/android)
@@ -15,7 +15,7 @@ Project Matrixx is a custom Android ROM based on crDroid Android, offering a uni
 - Join our community of [Telegram](https://t.me/matrixx_community)
 
 ### Maintainership
-- Get more information on maintaining official devices [Click Here](https://github.com/Matrixx-Devices/official_devices/blob/15.0/README.md)
+- Get more information on maintaining official devices [Click Here](https://github.com/Matrixx-Devices/official_devices/blob/16.0/README.md)
 
 ### Get Involved!
 We welcome contributors, developers, and enthusiasts to join our community and help shape the future of Project Matrixx.
