@@ -12,8 +12,8 @@ Project Matrixx is a custom Android ROM based on LineageOS, focused on deliverin
 
 ### Credits
 
-Base ROM & Source: LineageOS ,Lunaris-AOSP
-Feature Sources & Inspirations: Lunaris-AOSP, crDroid, AxionAOSP, DerpFest, EvolutionX, YAAP, AOSPA, InfinityX, VoltageOS & many more
+- Base ROM & Source: LineageOS ,Lunaris-AOSP
+- Feature Sources & Inspirations: Lunaris-AOSP, crDroid, AxionAOSP, DerpFest, EvolutionX, YAAP, AOSPA, InfinityX, VoltageOS & many more
 
 ### Important Links
 - Want to build check out our [Manifest](https://github.com/ProjectMatrixx/android)
