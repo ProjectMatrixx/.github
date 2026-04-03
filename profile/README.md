@@ -1,12 +1,19 @@
 ![Project Matrixx](https://raw.githubusercontent.com/ProjectMatrixx/Assets/refs/heads/16.0/banner.png)
 
 ### Welcome!
-Project Matrixx is a custom Android ROM based on crDroid Android, offering a unique blend of features, improvements, and a refined user interface.
+Project Matrixx is a custom Android ROM based on LineageOS, focused on delivering a clean, stable, and feature-rich experience. It combines a strong foundation with carefully selected customizations from various open-source projects to provide a refined and balanced user experience.
 
 ### Key Features
-- Built on top of [crDroid Android](https://github.com/crdroidandroid) for a stable and secure base
-- Additional features and UI enhancements for a personalized experience
-- Currently supporting Android 16
+- Built on top of LineageOS for a reliable and secure base
+- Enhanced with features and improvements inspired by multiple custom ROM projects
+- Clean UI with useful customizations
+- Focus on performance, smoothness, and stability
+- Currently supporting Android 16 QPR2
+
+### Credits
+
+Base ROM & Source: LineageOS ,Lunaris-AOSP
+Feature Sources & Inspirations: Lunaris-AOSP, crDroid, AxionAOSP, DerpFest, EvolutionX, YAAP, AOSPA, InfinityX, VoltageOS & many more
 
 ### Important Links
 - Want to build check out our [Manifest](https://github.com/ProjectMatrixx/android)
