@@ -18,7 +18,7 @@ Project Matrixx is a custom Android ROM based on LineageOS, focused on deliverin
 ### Important Links
 - Want to build check out our [Manifest](https://github.com/ProjectMatrixx/android)
 - Our official [Device sources](https://github.com/Matrixx-Devices)
-- Currently maintained [Official Devices](https://www.projectmatrixx.org/downloads)
+- Currently maintained [Official Devices](https://www.projectmatrixx.com/downloads)
 - Join our community of [Telegram](https://t.me/matrixx_community)
 
 ### Maintainership
@@ -28,4 +28,4 @@ Project Matrixx is a custom Android ROM based on LineageOS, focused on deliverin
 We welcome contributors, developers, and enthusiasts to join our community and help shape the future of Project Matrixx.
 
 ### Does the count matter?
-[![Download ProjectMatrixx](https://img.shields.io/sourceforge/dm/projectmatrixx.svg)](https://sourceforge.net/projects/projectmatrixx/files) [![Download ProjectMatrixx](https://img.shields.io/sourceforge/dt/projectmatrixx.svg)](https://www.projectmatrixx.org/downloads)
+[![Download ProjectMatrixx](https://img.shields.io/sourceforge/dm/projectmatrixx.svg)](https://sourceforge.net/projects/projectmatrixx/files) [![Download ProjectMatrixx](https://img.shields.io/sourceforge/dt/projectmatrixx.svg)](https://www.projectmatrixx.com/downloads)
