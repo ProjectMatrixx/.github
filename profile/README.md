@@ -27,5 +27,20 @@ Project Matrixx is a custom Android ROM based on LineageOS, focused on deliverin
 ### Get Involved!
 We welcome contributors, developers, and enthusiasts to join our community and help shape the future of Project Matrixx.
 
+### 🌍 Contributing translations
+
+ProjectMatrixx is localized by volunteers on **[Crowdin](https://crowdin.com/project/projectmatrixx/)**. If you speak a language other than English, you can help make the ROM accessible to more people around the world.
+
+**How to get started:**
+
+1. Visit the project at [crowdin.com/project/projectmatrixx](https://crowdin.com/project/projectmatrixx/)
+2. Create a free Crowdin account or sign in
+3. Select your language from the list
+4. Start translating strings — no technical knowledge required!
+5. Translations are reviewed and merged into the ROM regularly
+
+[![Crowdin](https://img.shields.io/badge/Crowdin-Translate-2E3340?style=for-the-badge&logo=crowdin&logoColor=white)](https://crowdin.com/project/projectmatrixx/)
+
+
 ### Does the count matter?
 [![Download ProjectMatrixx](https://img.shields.io/sourceforge/dm/projectmatrixx.svg)](https://sourceforge.net/projects/projectmatrixx/files) [![Download ProjectMatrixx](https://img.shields.io/sourceforge/dt/projectmatrixx.svg)](https://www.projectmatrixx.com/downloads)
